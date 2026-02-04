@@ -1,0 +1,7 @@
+{
+  "app": "EpidMonitor",
+  "version": "1.0.0",
+  "zip": "EpidMonitor-1.0.0.zip",
+  "sha256": "c65d95226dd5b84b0ec0bc34907aa30885b6a89515577615ec785d1f206b0cda",
+  "exe_relpath": "microbio_app.exe"
+}
