@@ -1,0 +1,32 @@
+# build/artifacts
+*.zip
+dist/
+build/
+*.spec
+ECHO is on.
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+ECHO is on.
+# caches/tmp
+_tmp*/
+_check/
+_unzip_test/
+.pytest_cache/
+.mypy_cache/
+ECHO is on.
+# reports/data if they are generated
+_tmp_reports/
+reports_archive/
+ECHO is on.
+# backups
+*.bak_*
+ECHO is on.
+# IDE
+.idea/
+.vscode/
+Thumbs.db
+desktop.ini

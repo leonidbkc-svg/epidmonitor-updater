@@ -1,0 +1,7 @@
+{
+    "app":  "EpidMonitor",
+    "version":  "1.0.2",
+    "zip":  "EpidMonitor-1.0.2.zip",
+    "sha256":  "4a0b453edc50cf6b89b3eadb6896d082ac78a3a934c9d1b898d95822ceb7d993",
+    "exe_relpath":  "ЭпидМонитор.exe"
+}
